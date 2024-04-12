@@ -1,4 +1,3 @@
-
 # SQL project: Utilized a music store database to craft data-driven marketing strategy
 
 Data Source: kaggle.com
@@ -18,6 +17,7 @@ Data Source: kaggle.com
 <> PgAdmin4
 
 Schema for the music store database is:
+
 ![MusicDatabaseSchema](https://github.com/subhopriyodas1997/Music_Project-SQL/assets/120428930/c9358033-7657-4a5d-ad53-ccb5a57069e9)
 ## Problem Statement
 
@@ -58,6 +58,9 @@ Write queries for:-
 <> Now customers can be segmented based on music preferences allowing for targeted promotions and improved customer engagement.
 
 <> Understanding customer spending patterns has enabled personalized recommendations and hence opportunity to cross-sell, which can lead to increased revenue.
+
+ 
+
 
  
 
