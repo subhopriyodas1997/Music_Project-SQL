@@ -1,7 +1,5 @@
 # SQL project: Utilized a music store database to craft data-driven marketing strategy
 
-Data Source: kaggle.com
-
 <> In this SQL project focused on a music dataset, the goal was to extract actionable insights to enhance marketing strategies and customer engagement.
 
 <> Through a series of targeted queries, I aimed to identify high-value customers, lucrative markets, and music genre preferences to tailor personalized promotions effectively.
